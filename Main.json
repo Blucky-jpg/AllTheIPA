@@ -14,15 +14,6 @@
       "appstore": "com.nianticlabs.pokemongo"
     },
     {
-      "name": "AlfredCameraPremium",
-      "version": "2024.12.0",
-      "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/AlfredCameraPremium-2024.12.0.ipa",
-      "category": "Hacked Games",
-      "description": "All-in-one app offering live streaming, instant intruder alerts, walkie-talkie, etc.",
-      "bundleID": "com.kalavision.alfred",
-      "appstore": "com.kalavision.alfred"
-    },
-    {
       "name": "SpooferX",
       "version": "0.321.0",
       "down": "https://www.spooferx.app/ipa/SpooferPro-0.321.0-0.353.ipa",
@@ -80,6 +71,15 @@
       ],
       "bundleID": "com.frontierdesign.videostar",
       "appstore": "com.frontierdesign.videostar"
+    },
+    {
+      "name": "AlfredCameraPremium",
+      "version": "2024.12.0",
+      "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/AlfredCameraPremium-2024.12.0.ipa",
+      "category": "Hacked Games",
+      "description": "All-in-one app offering live streaming, instant intruder alerts, walkie-talkie, etc.",
+      "bundleID": "com.kalavision.alfred",
+      "appstore": "com.kalavision.alfred"
     }
   ],
   "Jailbreaks": [
