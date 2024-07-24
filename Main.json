@@ -1,17 +1,26 @@
 {
   "META": {
-    "repoName": "Scarlet Repo",
+    "repoName": "ALL THE IPA's",
     "repoIcon": "https://usescarlet.com/favicon.png"
   },
   "Games": [
     {
       "name": "iPogo",
-      "version": "0.321.0",
+      "version": "",
       "down": "https://ipogo.app/download/ipogo-3.4.3.ipa",
       "category": "Hacked Games",
       "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
       "bundleID": "com.nianticlabs.pokemongo",
       "appstore": "com.nianticlabs.pokemongo"
+    },
+    {
+      "name": "AlfredCameraPremium",
+      "version": "2024.12.0",
+      "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/AlfredCameraPremium-2024.12.0.ipa",
+      "category": "Hacked Games",
+      "description": "All-in-one app offering live streaming, instant intruder alerts, walkie-talkie, etc.",
+      "bundleID": "com.kalavision.alfred",
+      "appstore": "com.kalavision.alfred"
     },
     {
       "name": "SpooferX",
